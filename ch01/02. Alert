@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HelloWorld</title>
+        <meta charset="utf-8">
+	</head>
+	<body>
+        <script>alert("請按確認以繼續")</script>
+        <h1>關於我們</h1>
+        <p>我們是一群熱愛寫作的BoB，由 bob 領軍，目標是提供各位讀者多樣化的教學內容，敬請期待！</p>
+	</body>
+</html>
